@@ -47,7 +47,8 @@ User Book List Page where we can see the books which the current user has-
 ![image](https://github.com/saurabh4073/Bookswap-Hub/assets/49804941/ad9a9672-e17e-40f3-9762-5a83508ca00e)
 
 Add New Book Page where we can add the details to make the book available to swap -
-![image](https://github.com/saurabh4073/Bookswap-Hub/assets/49804941/ade2c7d7-1bf3-497d-9c1c-f07e1b706663)
+![Screenshot 2024-05-17 223255](https://github.com/saurabh4073/Bookswap-Hub/assets/49804941/8bce9ac4-13ca-480e-becb-9124f30673c2)
+
 
 All Books List Page where we can see the list of books which are available for swapping by other users-
 ![image](https://github.com/saurabh4073/Bookswap-Hub/assets/49804941/efd48cd4-fb13-46de-9f73-72e43eb98a7b)
